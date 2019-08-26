@@ -1,0 +1,3 @@
+# Suicides-in-various-countries-1985-2015
+##### Life is hard nowaday. People who can't get through life and irrational decision of ending their own life. It's really depend on how strong people are and emotional support from family and friends also play an important role to prevent them to make such a bad decision. Our dataset did not consist of emotional related variable. But we've tried to understand whether country in which they live and its economic performance influence people to take such decisions.
+###### Dataset is provided in this repo and Source of the data is mentioned in the ipynb file itself. 
